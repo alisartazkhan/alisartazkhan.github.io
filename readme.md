@@ -1,4 +1,4 @@
-# Hyperbole Research in Natural Language Processing
+# Exploring Hyperbole Research in NLP
 
 **Author:** Ali Sartaz Khan  
 **Supervisor:** Ellen Riloff  
